@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422972954966",
+    "project_id": "lithe-breaker-329718",
+    "storage_bucket": "lithe-breaker-329718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422972954966:android:6d880455e296341b321ef7",
+        "android_client_info": {
+          "package_name": "com.example.wecode_2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422972954966-s28st5k375k69rit4dfe17v7j4v43m4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdwU7B8wF9yHekvFq2yplh8qvRl5M-Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422972954966-s28st5k375k69rit4dfe17v7j4v43m4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
